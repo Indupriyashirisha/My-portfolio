@@ -11,7 +11,9 @@ Welcome to my portfolio project repository! This project showcases my skills, pr
 3. Setup
 4. Usage
 5. Project Structure
-   
+
+## Images
+![Screenshot (38)](https://github.com/Indupriyashirisha/My-portfolio/assets/139387290/263dd000-8f5f-41df-a3ec-5ac07ee9fcc5)
 
 ## Features
 
