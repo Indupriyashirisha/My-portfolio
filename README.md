@@ -44,14 +44,23 @@ Customize the content in the HTML files to reflect your personal information, pr
 
 
 |-- index.html
+
 |-- css/
+
 |   |-- style.css
+
 |   |-- [additional stylesheets]
+
 |-- images/
+
 |   |-- project1.jpg
+
 |   |-- project2.png
+
 |   |-- [additional project images]
+
 |-- [additional files or folders]
+
 
 
 
